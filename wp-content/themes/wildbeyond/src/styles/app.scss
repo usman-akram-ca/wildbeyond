@@ -1,0 +1,22 @@
+//bower
+@import '../vendor/bootstrap-sass/assets/stylesheets/bootstrap';
+@import '../vendor/font-awesome-sass/assets/stylesheets/font-awesome';
+@import '../vendor/owl.carousel/dist/assets/owl.carousel.min.css';
+
+//components
+@import "components/variables";
+@import "components/mixins";
+
+@import 'components/layout';
+@import 'components/typo';
+
+@import 'components/animate';
+@import 'components/button';
+@import 'components/content';
+@import 'components/header';
+@import 'components/hero';
+@import 'components/footer';
+@import 'components/menu';
+@import 'components/socials';
+@import 'components/team-grid';
+@import 'components/jobs';
